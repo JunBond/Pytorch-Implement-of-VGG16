@@ -1,2 +1,2 @@
-# PyTorch-Implement-of-AlexNet
+# PyTorch-Implement-of-VGG16
 ## Classification of FashionMNIST datasets
